@@ -1,0 +1,6 @@
+# Input: Age of Max's dog in dog years
+N = int(input("Enter the dog's age in dog years: "))
+
+# Output: Age of Max's dog in human years
+human_years = N * 7
+print(human_years)
